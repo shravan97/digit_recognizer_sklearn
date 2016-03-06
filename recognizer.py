@@ -5,7 +5,6 @@
 # Standard scientific Python imports
 # Import datasets, classifiers and performance metrics
 from sklearn import datasets, svm, metrics
-
 from sklearn.metrics import accuracy_score
 import numpy as np
 
